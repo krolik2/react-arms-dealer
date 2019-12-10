@@ -6,6 +6,9 @@ const useStyles = makeStyles({
     card: {
       width: 300,
     },
+    cardActions: {
+      justifyContent: "center"
+    },
   });
 
 
@@ -19,24 +22,23 @@ const CardItem = () => {
           component="img"
           className={classes.media}
           image="https://i.ibb.co/qpMNZzG/M9-pistolet.jpg"
-          title="Contemplative Reptile"
+          title="Beretta M9"
         />
         <CardContent>
           <Typography gutterBottom variant="h5" component="h2">
             Beretta M9
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-            Lizards are a widespread group of squamate reptiles, with over 6,000
-            species, ranging across all continents except Antarctica
+            9mm
+          </Typography>
+          <Typography variant="h6" component="h2">
+            $500
           </Typography>
         </CardContent>
       </CardActionArea>
-      <CardActions>
-        <Button size="small" color="primary">
-          Share
-        </Button>
-        <Button size="small" color="primary">
-          Learn More
+      <CardActions className={classes.cardActions}>
+        <Button variant="contained" size="medium" color="primary">
+          Add to cart
         </Button>
       </CardActions>
     </Card>

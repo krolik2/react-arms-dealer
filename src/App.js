@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import NestedList from './components/List';
 import ResponsiveDrawer from './components/Drawer';
 
 

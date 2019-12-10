@@ -59,6 +59,7 @@ const Navbar = ({ handleDrawerToggle }) => {
             current section
           </Typography>
         </Toolbar>
+
       </AppBar>
     </>
   );
