@@ -1,0 +1,102 @@
+[
+  {
+    "name": "M107 A1 14084",
+    "id": 1,
+    "ammoType": ".50 BMG",
+    "itemType": "rifle",
+    "manufacturer": "Barrett",
+    "description": "Designed to be used with a suppressor, this rifle allows you to combine signature reduction capabilities with the flawless reliability of the original Barrett M107, but with a weight reduction of 5 pounds. An all new bolt carrier group has been designed and is key to making the rifle suppressor ready. Its steel four port cylindrical muzzle brake is engineered to work seamlessly with a quick attach Barrett QDL Suppressor. The lightweight aluminum upper receiver features an integrated 27 MOA optics rail. Inside the upper receiver, the bolt carrier rides on a hardened steel anti-wear strip for added durability. A thermal-guard cheek piece protects the user's face from extreme heat or cold. Advanced design and manufacturing make the M107A1 more precise than ever. The rear barrel stop and front barrel bushing are bolted and bonded with a high strength compound. A titanium barrel key and fully-chrome-lined bore and chamber add to the rifle's durability.",
+    "price": "$11,914.00",
+    "imgUrl": "https://i.imgur.com/QXKVp9c.jpg"
+  },
+  {
+    "name": "RDB RDBCBLK",
+    "id": 2,
+    "ammoType": "5.56x45mm NATO",
+    "itemType": "rifle",
+    "manufacturer": "Kel-Tec",
+    "description": "RDB stands for Rifle Downward-ejecting Bullpup and the 17 points to the barrel length. This variant is the original and features a high-impact resistant Zytel forend with built-in Picatinny-style rail on the bottom for mounting accessories. Like all the RDB variants, it’s completely ambidextrous, accurate and compact.",
+    "price": "$893.99",
+    "imgUrl": "https://i.imgur.com/5jXapqU.jpg"
+  },
+  {
+    "name": "550 Sonoran 04186",
+    "id": 3,
+    "ammoType": ".270 Win",
+    "itemType": "rifle",
+    "manufacturer": "CZ",
+    "description": "he rifle that inspired the Western Series, the Sonoran is ideal for stalking mulies through a desert vally or taking elk across a canyon. The Sonoran comes in at under 8lbs thanks to its Manners 100% carbon fiber stock and fluted barrel. Meant to take a licking, the Sonoran is ferritic nitrocarburized inside and out, meaning this rifle is near impervious to wear as well as corrosion. Not only does the surface treatment bring the hardness up to a Rockwell of 72, it also increases lubricity, meaning a little oil keeps the Sonoran running smooth as butter. Clad in its olive drab carbon fiber stock, it s the rifle built to weather the toughest hunts on the planet.",
+    "price": "$2,268.98",
+    "imgUrl": "https://i.imgur.com/7Inkb2J.jpg"
+  },
+  {
+    "name": "GP WASR-10 Muzzle Brake RI1805N",
+    "id": 4,
+    "ammoType": "7.62x39mm",
+    "itemType": "rifle",
+    "manufacturer": "Century",
+    "description": "The Romanian WASR-10 rifle is a semi-automatic version of the Pistol Mitraliera model 1963/1965 configured with a fixed wooden stock and forend. The WASR rifle is a perfect choice for hunters and recreational shooters. It features a 16.5 inch hard chrome-lined hammer forged barrel with a 1:10 inch twist, and is chambered in 7.62x39mm. It has an overall length of 34.25 inch and weighs 7.5 lbs. It comes with one 30-round magazine, side mounted scope rail, classic slant brake, bayonet lug, and a 1 year manufacturer's warranty. Not available in: NY, NJ, MA, CA, CT, HI, MD, or where prohibited by law.",
+    "price": "$718.99",
+    "imgUrl": "https://i.imgur.com/FOdvLGo.png"
+  },
+  {
+    "name": "J42XU16",
+    "id": 5,
+    "ammoType": "12 Gauge",
+    "itemType": "rifle",
+    "manufacturer": "Beretta",
+    "description": "The Beretta A400 Xtreme Plus is an enhancement of the A400 Xtreme. New for 2018, the A400 Xtreme Plus features Beretta's exclusive Stadium Plus barrels. These barrels provide the best patterning possible from all hunting loads in addition to reduced felt recoil. Further drawing from the competition world, the Xtreme Plus utilizes an integral mid-bead and fiber optic front bead to ensure proper fit and sighting in all conditions.",
+    "price": "$1,648.00",
+    "imgUrl": "https://i.imgur.com/zkb1qvi.jpg"
+  },
+  {
+    "name": "HK416 81000401",
+    "id": 6,
+    "ammoType": ".22 LR",
+    "itemType": "rifle",
+    "manufacturer": "HK",
+    "description": "HK 81000401 HK416 RIFLE 22LR 20R FAMILY:HK416 Series MODEL:HK416 YPE:Rifle ACTION:Semi-Auto FINISH:Matte Black STOCK/GRIPS:HK Stylebutstock, Slim SPC FEATURE:Threaded Barrel Model WEIGHT:8.6 lbs CALIBER/GAUGE:22 LR CAPACITY:20 + 1 # OF MAGS:1 MAGAZINE DESC:20 rd. Polymer Magazine BARREL:16.1 OVERALL LENGTH:32.7 SIGHTS:Polymer Flup Up Front and Rear SAFETY:Ambidextrous Safety ADDL INFO:Aluminum Upper and Lower ADDL INFO:Aluminum M-Lok Rail ADDL INFO:Ambidextrous Charging Handle",
+    "price": "$357.99",
+    "imgUrl": "https://i.imgur.com/6vtVCSn.jpg"
+  },
+  {
+    "name": "MRAD Fluted 14386",
+    "id": 7,
+    "ammoType": ".338 Lapua Mag",
+    "itemType": "rifle",
+    "manufacturer": "Barett",
+    "description": "Barrett's MRAD adapts to a variety of user needs without sacrificing performance. With unfailing accuracy, this bolt-action system continues to define a whole new class of long-range precision rifles. It features a changeable barrel system that can be removed by simply loosening two bolts using a standard Torx wrench. Besides reducing maintenance and logistical burdens, this unique design allows for user level caliber interchangeability and serviceability with the MRAD rifle's barrel kits.",
+    "price": "$5,970.00",
+    "imgUrl": "https://i.imgur.com/BusBMnU.jpg"
+  },
+  {
+    "name": "M1A Super Match SA9102",
+    "id": 8,
+    "ammoType": ".308 Win",
+    "itemType": "rifle",
+    "manufacturer": "Springfield Armory",
+    "description": "If domination on the firing line is what you're after, the Super Match M1A from Springfield Armory is the tool you need. The Super Match M1A is the culmination of unsurpassed workmanship and all the best competition-legal features you can pack into a match rifle. The rear-lugged action of the Super Match M1A is masterfully glass bedded into an oversized stock.",
+    "price": "$2,618.98",
+    "imgUrl": "https://i.imgur.com/Zij2gdc.png"
+  },
+  {
+    "name": "RUG 8537",
+    "id": 9,
+    "ammoType": "5.56x45mm NATO",
+    "itemType": "rifle",
+    "manufacturer": "Ruger",
+    "description": "Ruger's AR-556 semi-automatic rifle is made from forged aerospace-grade 7075-T6 aluminum. The hard coat anodized, flattop upper receiver includes a forward assist, dust cover and brass deflector, while the handguards are made from heat-resistant glass-filled nylon. It has a carbine-length, milled gas block with multiple attachment points for a QD socket, bayonet lug, and sling.",
+    "price": "$669.99",
+    "imgUrl": "https://i.imgur.com/zl0YN7E.jpg"
+  },
+  {
+    "name": "CZ 527 Carbine",
+    "id": 10,
+    "ammoType": "7.62x39mm",
+    "itemType": "rifle",
+    "manufacturer": "CZ",
+    "description": "CZ's 527 Carbine is an intermediate range 'brush gun.' This handy rifle features open sights, a straight comb walnut stock and weighs less than 6 pounds. The 7.62x39 cartridge is a top pick for younger shooters for its low recoil and effectiveness on medium-sized game such as deer or wild boar out to 200 yards.",
+    "price": "$681.99",
+    "imgUrl": "https://i.imgur.com/3X9l3VL.jpg"
+  }
+]
