@@ -208,5 +208,127 @@
     "description": "The Beretta 92 FS semi-automatic pistol operates on a short recoil, delayed blowback system, leading to faster cycle times, exceptional accuracy, and greater reliability. The chrome-lined barrel provides extreme corrosion resistance, while the deeply-recessed combat muzzle crown protects the rifling. The open top slide virtually eliminates jamming and stove piping allows for one cartridge at a time.",
     "priceUsd": 598.00,
     "imgUrl": "https://i.imgur.com/89FPkDf.jpg"
-  }
+  },
+  {
+    "name": "WF1421",
+    "id": 21,
+    "ammoType": "12 Gauge",
+    "itemType": "ammunition",
+    "capacity": 25,
+    "manufacturer": "Federal",
+    "description": "Built for performance at a value price and featuring uniformly round pellets for tighter shot patterns. Speed-Shok also features a high density plastic wad with a gas-sealing flange for efficiency. Plus, their high output primers ensure consistent ballistics and solid dependability even in cold and wet conditions.",
+    "priceUsd": 11.99,
+    "imgUrl": "https://i.imgur.com/0mPLbjy.jpg"
+  },
+  {
+    "name": "Centerfire Rifle FMJ TA127091",
+    "id": 22,
+    "ammoType": ".50 BMG",
+    "itemType": "ammunition",
+    "capacity": 10,
+    "manufacturer": "Tulammo",
+    "description": "zzz",
+    "priceUsd": 38.99,
+    "imgUrl": "https://i.imgur.com/lnnTUVF.jpg"
+  },
+  {
+    "name": "SIE A444003",
+    "id": 23,
+    "ammoType": ".270 Win",
+    "itemType": "ammunition",
+    "capacity": 20,
+    "manufacturer": "Sierra",
+    "description": "Sierra has announced their GameChanger loaded ammunition, topped with the polymer-tipped boattail GameChanger bullet, essentially a Tipped GameKing. The brass casings have the Sierra headstamp. GameChanger is an excellent choice for an all-around performer in the field.",
+    "priceUsd": 38.99,
+    "imgUrl": "https://i.imgur.com/4Wn8cVW.jpg"
+  },
+  {
+    "name": "V-Crown JHP E9MMA1-20",
+    "id": 24,
+    "ammoType": "9mm Luger",
+    "itemType": "ammunition",
+    "capacity": 20,
+    "manufacturer": "Sig Sauer",
+    "description": "V-Crown Jacketed Hollow Point bullets are designed to provide superior accuracy, reliability, and performance in a personal defense round. The Sig V-Crown stacked hollow point design provides a smaller, additional hollow point cavity behind the main cavity. This design, along with V-shaped jacket skives and scores, provides controlled, uniform expansion at all effective distances and velocities.",
+    "priceUsd": 13.99,
+    "imgUrl": "https://i.imgur.com/shwWvFh.png"
+  },
+  {
+    "name": "Shooting Dynamics Pistol 44D500",
+    "id": 25,
+    "ammoType": ".44 Mag",
+    "itemType": "ammunition",
+    "capacity": 50,
+    "manufacturer": "Fiocchi",
+    "description": "The Shooting Dynamics line offers reliably performing products for every shooting application from plinking to target shooting to hunting. This ammo is loaded in the U.S.A. utilizing Barnes Tipped TSX lead-free bullets, top quality powder and selected components.",
+    "priceUsd": 29.99,
+    "imgUrl": "https://i.imgur.com/UCArazj.jpg"
+  },
+  {
+    "name": "Thunderbolt 22 Long Rifle",
+    "id": 26,
+    "ammoType": ".22 LR",
+    "itemType": "ammunition",
+    "capacity": 500,
+    "manufacturer": "Remington Ammunition",
+    "description": "No matter what you put in your sights, prarie dogs, tin cans or a target, Remington offers the perfect 22 rimfire ammunition for any occasion. Remington rimfire ammunition delivers the quality you expect. That's because they put the same level of care into making the rimfire ammunition as they do their centerfire ammunition, so you'll get the maximum performance from every shot.",
+    "priceUsd": 19.98,
+    "imgUrl": "https://i.imgur.com/9fQyvIt.jpg"
+  },
+  {
+    "name": "357 Mag Lead-Free Tactical Short Barrel 19H/20",
+    "id": 27,
+    "ammoType": ".357 Mag",
+    "itemType": "ammunition",
+    "capacity": 20,
+    "manufacturer": "Buffalo Bore Ammunition",
+    "description": "Buffalo Bore Tactical 357 Magnum ammo generates less felt recoil and blast (flash and noise) than the Heavy 357 mag loads, making it a better choice for those carrying lightweight short barreled revolvers. This is still a full powered 357 magnum load, but allows for faster follow-up shots and greater shooting comfort.",
+    "priceUsd": 33.99,
+    "imgUrl": "https://i.imgur.com/EFjzXhE.jpg"
+  },
+  {
+    "name": "Tactical Cycling Subsonic 00474",
+    "id": 28,
+    "ammoType": "7.62x39mm",
+    "itemType": "ammunition",
+    "capacity": 50,
+    "manufacturer": "Atomic",
+    "description": "Atomic's Tactical Cycling Subsonic is unlike traditional high powered rifle ammunition. Unsuppressed, it is as quiet as most 22 LR and has minimal felt recoil. These relatively innocuous-sounding cartridges, with their low recoil and report, serve professionals with an alternative to much louder standard power rifle cartridges allowing faster follow up shots and better full auto accuracy with the added safety of not penetrating level 2 and higher armor worn by many law enforcement and military professionals.",
+    "priceUsd": 54.99,
+    "imgUrl": "https://i.imgur.com/udk7US7.jpg"
+  },
+  {
+    "name": "Bronze Rifle 7.62A",
+    "id": 29,
+    "ammoType": "5.56x45mm NATO",
+    "itemType": "ammunition",
+    "capacity": 20,
+    "manufacturer": "PMC",
+    "description": "PMC Ammunition's popular Bronze Line provides high-performance velocity and accuracy in a cost-effective cartridge. The affordability of the Bronze Line makes it ideal for any situation involving high-volume shooting without compromising downrange results. The Full Metal Jacket (FMJ) cartridge consists of a lead core bullet enclosed in a heavy copper jacket, resulting in little or no expansion and deeper penetration of the bullet.",
+    "priceUsd": 13.99,
+    "imgUrl": "https://i.imgur.com/XNgeRbA.jpg"
+  },
+  {
+    "name": "Trophy Ballistic Tip 40061",
+    "id": 30,
+    "ammoType": ".308 Win",
+    "itemType": "ammunition",
+    "capacity": 20,
+    "manufacturer": "Nosler",
+    "description": "The Nosler Trophy round is a 125 grain .308 caliber bullet with a brass Nosler cartridge. This 20 round box is great for hunting medium sized game like deer, hogs, and antelope.",
+    "priceUsd": 27.99,
+    "imgUrl": "https://i.imgur.com/J9wEBda.jpg"
+  },
+  {
+    "name": "Match ELD Match 82300",
+    "id": 31,
+    "ammoType": ".338 Lapua Mag",
+    "itemType": "ammunition",
+    "capacity": 20,
+    "manufacturer": "Hornady",
+    "description": "ELD Match bullets are technologically advanced, enhanced accuracy target bullets featuring Heat Shield tips with the PERFECT MEPLAT (tip point) combined with numerous design features that deliver the highest in class ballistic coefficients, superior accuracy and extreme consistency from bullet to bullet, lot to lot.",
+    "priceUsd": 82.99,
+    "imgUrl": "https://i.imgur.com/JJjBNBj.jpg"
+  },
 ]
+
