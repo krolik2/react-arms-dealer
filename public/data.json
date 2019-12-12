@@ -6,7 +6,7 @@
     "itemType": "rifle",
     "manufacturer": "Barrett",
     "description": "Designed to be used with a suppressor, this rifle allows you to combine signature reduction capabilities with the flawless reliability of the original Barrett M107, but with a weight reduction of 5 pounds. An all new bolt carrier group has been designed and is key to making the rifle suppressor ready. Its steel four port cylindrical muzzle brake is engineered to work seamlessly with a quick attach Barrett QDL Suppressor. The lightweight aluminum upper receiver features an integrated 27 MOA optics rail. Inside the upper receiver, the bolt carrier rides on a hardened steel anti-wear strip for added durability. A thermal-guard cheek piece protects the user's face from extreme heat or cold. Advanced design and manufacturing make the M107A1 more precise than ever. The rear barrel stop and front barrel bushing are bolted and bonded with a high strength compound. A titanium barrel key and fully-chrome-lined bore and chamber add to the rifle's durability.",
-    "price": "$11,914.00",
+    "priceUsd": 11914.00,
     "imgUrl": "https://i.imgur.com/QXKVp9c.jpg"
   },
   {
@@ -16,7 +16,7 @@
     "itemType": "rifle",
     "manufacturer": "Kel-Tec",
     "description": "RDB stands for Rifle Downward-ejecting Bullpup and the 17 points to the barrel length. This variant is the original and features a high-impact resistant Zytel forend with built-in Picatinny-style rail on the bottom for mounting accessories. Like all the RDB variants, it’s completely ambidextrous, accurate and compact.",
-    "price": "$893.99",
+    "priceUsd": 893.99,
     "imgUrl": "https://i.imgur.com/5jXapqU.jpg"
   },
   {
@@ -25,8 +25,8 @@
     "ammoType": ".270 Win",
     "itemType": "rifle",
     "manufacturer": "CZ",
-    "description": "he rifle that inspired the Western Series, the Sonoran is ideal for stalking mulies through a desert vally or taking elk across a canyon. The Sonoran comes in at under 8lbs thanks to its Manners 100% carbon fiber stock and fluted barrel. Meant to take a licking, the Sonoran is ferritic nitrocarburized inside and out, meaning this rifle is near impervious to wear as well as corrosion. Not only does the surface treatment bring the hardness up to a Rockwell of 72, it also increases lubricity, meaning a little oil keeps the Sonoran running smooth as butter. Clad in its olive drab carbon fiber stock, it s the rifle built to weather the toughest hunts on the planet.",
-    "price": "$2,268.98",
+    "description": "The rifle that inspired the Western Series, the Sonoran is ideal for stalking mulies through a desert vally or taking elk across a canyon. The Sonoran comes in at under 8lbs thanks to its Manners 100% carbon fiber stock and fluted barrel. Meant to take a licking, the Sonoran is ferritic nitrocarburized inside and out, meaning this rifle is near impervious to wear as well as corrosion. Not only does the surface treatment bring the hardness up to a Rockwell of 72, it also increases lubricity, meaning a little oil keeps the Sonoran running smooth as butter. Clad in its olive drab carbon fiber stock, it s the rifle built to weather the toughest hunts on the planet.",
+    "priceUsd": 2268.98,
     "imgUrl": "https://i.imgur.com/7Inkb2J.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "itemType": "rifle",
     "manufacturer": "Century",
     "description": "The Romanian WASR-10 rifle is a semi-automatic version of the Pistol Mitraliera model 1963/1965 configured with a fixed wooden stock and forend. The WASR rifle is a perfect choice for hunters and recreational shooters. It features a 16.5 inch hard chrome-lined hammer forged barrel with a 1:10 inch twist, and is chambered in 7.62x39mm. It has an overall length of 34.25 inch and weighs 7.5 lbs. It comes with one 30-round magazine, side mounted scope rail, classic slant brake, bayonet lug, and a 1 year manufacturer's warranty. Not available in: NY, NJ, MA, CA, CT, HI, MD, or where prohibited by law.",
-    "price": "$718.99",
+    "priceUsd": 718.99,
     "imgUrl": "https://i.imgur.com/FOdvLGo.png"
   },
   {
@@ -46,7 +46,7 @@
     "itemType": "rifle",
     "manufacturer": "Beretta",
     "description": "The Beretta A400 Xtreme Plus is an enhancement of the A400 Xtreme. New for 2018, the A400 Xtreme Plus features Beretta's exclusive Stadium Plus barrels. These barrels provide the best patterning possible from all hunting loads in addition to reduced felt recoil. Further drawing from the competition world, the Xtreme Plus utilizes an integral mid-bead and fiber optic front bead to ensure proper fit and sighting in all conditions.",
-    "price": "$1,648.00",
+    "priceUsd": 1648.00,
     "imgUrl": "https://i.imgur.com/zkb1qvi.jpg"
   },
   {
@@ -55,8 +55,8 @@
     "ammoType": ".22 LR",
     "itemType": "rifle",
     "manufacturer": "HK",
-    "description": "HK 81000401 HK416 RIFLE 22LR 20R FAMILY:HK416 Series MODEL:HK416 YPE:Rifle ACTION:Semi-Auto FINISH:Matte Black STOCK/GRIPS:HK Stylebutstock, Slim SPC FEATURE:Threaded Barrel Model WEIGHT:8.6 lbs CALIBER/GAUGE:22 LR CAPACITY:20 + 1 # OF MAGS:1 MAGAZINE DESC:20 rd. Polymer Magazine BARREL:16.1 OVERALL LENGTH:32.7 SIGHTS:Polymer Flup Up Front and Rear SAFETY:Ambidextrous Safety ADDL INFO:Aluminum Upper and Lower ADDL INFO:Aluminum M-Lok Rail ADDL INFO:Ambidextrous Charging Handle",
-    "price": "$357.99",
+    "description": "HK 81000401 HK416 RIFLE 22LR 20R FAMILY:HK416 Series MODEL:HK416 YPE:Rifle ACTION:Semi-Auto FINISH:Matte Black STOCK/GRIPS:HK Stylebutstock, Slim SPC FEATURE:Threaded Barrel Model WEIGHT:8.6 lbs CALIBER/GAUGE:22 LR CAPACITY:20 + 1 # OF MAGS:1 MAGAZINE DESC:20 rd. Polymer Magazine BARREL:16.1 OVERALL LENGTH:32.7 SIGHTS:Polymer Flup Up Front and Rear SAFETY:Ambidextrous Safety ADDL INFO:Aluminum Upper and Lower ADDL INFO:Aluminum M-Lok Rail ADDL INFO:Ambidextrous Charging Handle.",
+    "priceUsd": 357.99,
     "imgUrl": "https://i.imgur.com/6vtVCSn.jpg"
   },
   {
@@ -66,7 +66,7 @@
     "itemType": "rifle",
     "manufacturer": "Barett",
     "description": "Barrett's MRAD adapts to a variety of user needs without sacrificing performance. With unfailing accuracy, this bolt-action system continues to define a whole new class of long-range precision rifles. It features a changeable barrel system that can be removed by simply loosening two bolts using a standard Torx wrench. Besides reducing maintenance and logistical burdens, this unique design allows for user level caliber interchangeability and serviceability with the MRAD rifle's barrel kits.",
-    "price": "$5,970.00",
+    "priceUsd": 5970.00,
     "imgUrl": "https://i.imgur.com/BusBMnU.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "itemType": "rifle",
     "manufacturer": "Springfield Armory",
     "description": "If domination on the firing line is what you're after, the Super Match M1A from Springfield Armory is the tool you need. The Super Match M1A is the culmination of unsurpassed workmanship and all the best competition-legal features you can pack into a match rifle. The rear-lugged action of the Super Match M1A is masterfully glass bedded into an oversized stock.",
-    "price": "$2,618.98",
+    "priceUsd": 2618.98,
     "imgUrl": "https://i.imgur.com/Zij2gdc.png"
   },
   {
@@ -86,7 +86,7 @@
     "itemType": "rifle",
     "manufacturer": "Ruger",
     "description": "Ruger's AR-556 semi-automatic rifle is made from forged aerospace-grade 7075-T6 aluminum. The hard coat anodized, flattop upper receiver includes a forward assist, dust cover and brass deflector, while the handguards are made from heat-resistant glass-filled nylon. It has a carbine-length, milled gas block with multiple attachment points for a QD socket, bayonet lug, and sling.",
-    "price": "$669.99",
+    "priceUsd": 669.99,
     "imgUrl": "https://i.imgur.com/zl0YN7E.jpg"
   },
   {
@@ -96,7 +96,117 @@
     "itemType": "rifle",
     "manufacturer": "CZ",
     "description": "CZ's 527 Carbine is an intermediate range 'brush gun.' This handy rifle features open sights, a straight comb walnut stock and weighs less than 6 pounds. The 7.62x39 cartridge is a top pick for younger shooters for its low recoil and effectiveness on medium-sized game such as deer or wild boar out to 200 yards.",
-    "price": "$681.99",
+    "priceUsd": 681.99,
     "imgUrl": "https://i.imgur.com/3X9l3VL.jpg"
+  },
+  {
+    "name": "Taurus 44 Standard 2440089",
+    "id": 11,
+    "ammoType": ".44 Mag",
+    "itemType": "handgun",
+    "itemSubType": "revolver",
+    "manufacturer": "Taurus",
+    "description": "The Taurus Model 44 large frame revolver holds 6 rounds of full-power 44 Magnum loads. This revolver is hammer-forged for tough performance and confidence-boosting accuracy, and it comes with a hand-fitted action and a clean, crisp trigger right out of the box. The Model 44 features a ported barrel that reduces muzzle flip and felt-recoil, the Taurus Security System (TSS), and a transfer bar safety.",
+    "priceUsd": 514.99,
+    "imgUrl": "https://i.imgur.com/mPBjCEs.png"
+  },
+  {
+    "name": "Vaquero SASS 5133",
+    "id": 12,
+    "ammoType": ".357 Mag",
+    "itemType": "handgun",
+    "itemSubType": "revolver",
+    "manufacturer": "Ruger",
+    "description": "Ruger's Vaquero features a handsome, larger crescent-shaped ejector rod head that boasts traditional form, which makes it perfect for every cowboy or cowgirl. Its patented reverse indexing pawl allows for easier loading and unloading, while the traditional beveled cylinder simplifies holstering. The transfer bar mechanism and loading gate interlock provide an unparalleled measure of security against accidental discharge.",
+    "priceUsd": 737.99,
+    "imgUrl": "https://i.imgur.com/kHGgKou.jpg"
+  },
+  {
+    "name": "SP101 Standard 5765",
+    "id": 13,
+    "ammoType": ".22 LR",
+    "itemType": "handgun",
+    "itemSubType": "revolver",
+    "manufacturer": "Ruger",
+    "description": "The Ruger SP101 revolver features a smaller Ruger cushioned grip system with no exposed metal at the back strap for shooter comfort. The patented triple locking cylinder mechanism securely locks the cylinder into the frame at the front, rear, and bottom. Its stainless steel frame has no weakening side plates.",
+    "priceUsd": 632.99,
+    "imgUrl": "https://i.imgur.com/1TtMQVg.jpg"
+  },
+  {
+    "name": "629 Performance Center M629",
+    "id": 14,
+    "ammoType": ".44 Mag",
+    "itemType": "handgun",
+    "itemSubType": "revolver",
+    "manufacturer": "Smith & Wesson",
+    "description": "Smith & Wesson's Performance Center combines old world hand craftsmanship with modern technology. The Model 629 features a chorme hammer, trigger, and trigger stop. It also has a PC tuned actoin. This model has a stainless steel barrel, frame, and cylinder. It also has a dovetail ramp front and adjustable rear sights, and wood grips.",
+    "priceUsd": 1002.99,
+    "imgUrl": "https://i.imgur.com/ypoaVkc.jpg"
+  },
+  {
+    "name": "27 Classic M27",
+    "id": 15,
+    "ammoType": ".357 Mag",
+    "itemType": "handgun",
+    "itemSubType": "revolver",
+    "manufacturer": "Smith & Wesson",
+    "description": "Smith & Wesson's Classic revolver is the finest handgun possible with designs going back to the most famous and collectible guns that Smith & Wesson ever constructed. Each is based on a model known for legendary performance then enhanced with modern advantages.",
+    "priceUsd": 947.99,
+    "imgUrl": "https://i.imgur.com/7GQtJyQ.jpg"
+  },
+  {
+    "name": "75 Shadow 2 91255",
+    "id": 16,
+    "ammoType": "9mm Luger",
+    "itemType": "handgun",
+    "itemSubType": "semi automatic",
+    "manufacturer": "CZ",
+    "description": "CZ's Shadow 2 is a redesigned Shadow, popular on the competition circuit. The Shadow 2 features a higher beavertail and undercut trigger guard to get the shooter's hand as close to the bore axis as possible. With a contoured slide, the majority of the reciprocating mass is also centered on the bore, equating to less muzzle flip. It has a swappable mag release with an adjustable, extended button and three settings to allow shooters to set it in their most comfortable spot.",
+    "priceUsd": 1157.99,
+    "imgUrl": "https://i.imgur.com/cA6jdKg.png"
+  },
+  {
+    "name": "Mark IV Competition 40112",
+    "id": 17,
+    "ammoType": ".22 LR",
+    "itemType": "handgun",
+    "itemSubType": "semi automatic",
+    "manufacturer": "Ruger",
+    "description": "Ruger's Mark IV features a simple, one-button takedown for quick and easy field-stripping and proper chamber to muzzle cleaning. The recessed button in the back of the frame allows the upper receiver to tilt up and off of the grip frame without the use of tools. Its internal cylindrical bolt construction ensures permanent sight to barrel alignment, while the contoured ejection port and easy-to-grasp bolt ears allow for durable and reliable operation.",
+    "priceUsd": 614.99,
+    "imgUrl": "https://i.imgur.com/MXM5mKw.jpg"
+  },
+  {
+    "name": "Desert Eagle Mark XIX DE44ASIMB",
+    "id": 18,
+    "ammoType": ".44 Mag",
+    "itemType": "handgun",
+    "itemSubType": "semi automatic",
+    "manufacturer": "Magnum Research",
+    "description": "Magnum Research's Desert Eagle Mark XIX 44 Rem Magnum is a rotating bolt, semi-automatic pistol with a black finish and a stainless steel slide/barrel. It is construction of the latest CNC machine technology providing exacting specifications with tight tolerances creating a work of art in a precision firearm.",
+    "priceUsd": 1840.99,
+    "imgUrl": "https://i.imgur.com/PaZAkc6.jpg"
+  },
+  {
+    "name": "P320 Compact 320C9B",
+    "id": 19,
+    "ammoType": "9mm Luger",
+    "itemType": "handgun",
+    "itemSubType": "semi automatic",
+    "manufacturer": "Sig Sauer",
+    "description": "Sig's Pistols are engineered to perform anywhere, at any time, and under any circumstance. They boast unique, advanced features that stand out among the rest. The P320 is a striker-fired modular, polymer-framed service pistol designed from the ground up with the input of law enforcement officers. It offers a smooth, crisp trigger, an intuitive, 3-point takedown and unmatched modularity to fit any shooter and any situation.",
+    "priceUsd": 499.99,
+    "imgUrl": "https://i.imgur.com/RaS0yus.jpg"
+  },
+  {
+    "name": "92 FS Italy JS92F300M",
+    "id": 20,
+    "ammoType": "9mm Luger",
+    "itemType": "handgun",
+    "itemSubType": "semi automatic",
+    "manufacturer": "Beretta",
+    "description": "The Beretta 92 FS semi-automatic pistol operates on a short recoil, delayed blowback system, leading to faster cycle times, exceptional accuracy, and greater reliability. The chrome-lined barrel provides extreme corrosion resistance, while the deeply-recessed combat muzzle crown protects the rifling. The open top slide virtually eliminates jamming and stove piping allows for one cartridge at a time.",
+    "priceUsd": 598.00,
+    "imgUrl": "https://i.imgur.com/89FPkDf.jpg"
   }
 ]
