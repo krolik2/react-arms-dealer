@@ -1,24 +1,31 @@
 import React from "react";
-import { Card, CardMedia, CardActionArea, CardActions, CardContent, Typography, Button } from "@material-ui/core";
-import { makeStyles } from '@material-ui/core/styles';
+import {
+  Card,
+  CardMedia,
+  CardActionArea,
+  CardActions,
+  CardContent,
+  Typography,
+  Button
+} from "@material-ui/core";
+import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles({
-    card: {
-      width: 300,
-    },
-    cardActions: {
-      justifyContent: "center"
-    },
-  });
-
+  card: {
+    width: 300
+  },
+  cardActions: {
+    justifyContent: "center"
+  }
+});
 
 const CardItem = () => {
-    const classes = useStyles();
+  const classes = useStyles();
 
   return (
     <Card className={classes.card}>
       <CardActionArea>
-      <CardMedia
+        <CardMedia
           component="img"
           className={classes.media}
           image="https://i.ibb.co/qpMNZzG/M9-pistolet.jpg"
